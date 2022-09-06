@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658179036 source:f:\problem solving\sheet2\i. palindrome\plindrome\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
